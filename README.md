@@ -39,7 +39,7 @@ Welcome to send a pull request to add papers and relevant content.
 - **Code Prediction by Feeding Trees to Transformers**(2021),ICSE'21.Kim,
   Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
 - **Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs** (2021), AAAI'21, Wang, Yanlin, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1654.WangY.pdf)
-
+- **CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences** (2022), ICSE'22, Izadi, Maliheh, et al. [[pdf]](https://arxiv.org/pdf/2202.06689.pdf) [[code]](https://github.com/saltudelft/codefill)
 ## Code Generation
 ## Code Recommand
 ## Code Summarization
