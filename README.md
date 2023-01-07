@@ -29,7 +29,7 @@ Welcome to send a pull request to add papers and relevant content.
 - [Talks](#talks)
 - [Research Groups](#research-groups)
 
-#Papers
+# Papers
 ## Surveys
 ## Empirical Studies
 ## Type Inference
@@ -57,6 +57,10 @@ Welcome to send a pull request to add papers and relevant content.
 # Datasets
 - [Python Dataset](https://www.sri.inf.ethz.ch/py150) - A dataset consisting of 150k python files and their corresponding parsed ASTs.
 - [Javascript Dataset](https://www.sri.inf.ethz.ch/js150) - A dataset consisting of 150k JavaScript files and their corresponding parsed ASTs.
+- [PURE Dataset](https://zenodo.org/record/1414117#.Y7mDrHZBy3A) - a Dataset of Public Requirements Documents
+- [PROMISE SOFTWARE ENGINEERING REPOSITORY](http://promise.site.uottawa.ca/SERepository/) - Here we can find a collection of publicly available datasets and tools to serve researchers in building predictive software models.
+- [UCI Machine Learning Reposity](http://archive.ics.uci.edu/ml/datasets.php) - center for Machine Learning and Intelligent Systems.
+
 
 # Tools
 
@@ -65,5 +69,5 @@ Welcome to send a pull request to add papers and relevant content.
 
 # Talks
 
-#Research Groups
+# Research Groups
 - [Secure, Reliable, and Intelligent Systems Lab (SRI)](https://www.sri.inf.ethz.ch/), ETH Zurich
