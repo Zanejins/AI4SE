@@ -54,16 +54,16 @@ Welcome to send a pull request to add papers and relevant content.
 ## Program Analysis
 ## Code Clone Detection
 
-#Datasets
+# Datasets
 - [Python Dataset](https://www.sri.inf.ethz.ch/py150) - A dataset consisting of 150k python files and their corresponding parsed ASTs.
 - [Javascript Dataset](https://www.sri.inf.ethz.ch/js150) - A dataset consisting of 150k JavaScript files and their corresponding parsed ASTs.
 
-#Tools
+# Tools
 
 
-#PhD Theses
+# PhD Theses
 
-#Talks
+# Talks
 
 #Research Groups
 - [Secure, Reliable, and Intelligent Systems Lab (SRI)](https://www.sri.inf.ethz.ch/), ETH Zurich
