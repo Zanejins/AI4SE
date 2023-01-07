@@ -27,6 +27,7 @@ Welcome to send a pull request to add papers and relevant content.
 - [Tools](#tools)
 - [PhD Theses](#phd-theses)
 - [Talks](#talks)
+- [Research Groups](#research-groups)
 
 #Papers
 ## Surveys
@@ -53,6 +54,8 @@ Welcome to send a pull request to add papers and relevant content.
 ## Code Clone Detection
 
 #Datasets
+- [Python Dataset](https://www.sri.inf.ethz.ch/py150) - A dataset consisting of 150k python files and their corresponding parsed ASTs.
+- [Javascript Dataset](https://www.sri.inf.ethz.ch/js150) - A dataset consisting of 150k JavaScript files and their corresponding parsed ASTs.
 
 #Tools
 
@@ -60,3 +63,6 @@ Welcome to send a pull request to add papers and relevant content.
 #PhD Theses
 
 #Talks
+
+#Research Groups
+- [Secure, Reliable, and Intelligent Systems Lab (SRI)](https://www.sri.inf.ethz.ch/), ETH Zurich
