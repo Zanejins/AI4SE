@@ -41,6 +41,11 @@ Welcome to send a pull request to add papers and relevant content.
   Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
 - **Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs** (2021), AAAI'21, Wang, Yanlin, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1654.WangY.pdf)
 - **CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences** (2022), ICSE'22, Izadi, Maliheh, et al. [[pdf]](https://arxiv.org/pdf/2202.06689.pdf) [[code]](https://github.com/saltudelft/codefill)
+- **All You Need Is Logs: Improving Code Completion by Learning from Anonymous IDE Usage Logs** (2022), arxiv, Bibaev, Vitaliy, et al. [[pdf]](https://arxiv.org/pdf/2205.10692.pdf)
+- **Learning to Prevent Profitless Neural Code Completion** (2022), arxiv, Sun, Z., et al. [[pdf]](https://arxiv.org/pdf/2209.05948)
+- **Syntax-Aware On-the-Fly Code Completion** (2022), arxiv, Takerngsaksiri, W., et al. [[pdf]](https://arxiv.org/pdf/2211.04673)
+- **Boosting source code suggestion with self-supervised Transformer Gated Highway** (2022), JSS, Hussain, Yasir, et al.
+
 
 ## Code Generation
 ## Code Recommand
@@ -63,6 +68,10 @@ Welcome to send a pull request to add papers and relevant content.
 
 
 # Tools
+- [java-callgraph](https://github.com/gousiosg/java-callgraph) - a suite of programs for generating static and dynamic calls graphs in Java
+## Source Code Analysis&Processing
+- [PVTS parser](https://github.com/Microsoft/PTVS) - we can use it to extract AST.
+
 
 
 # PhD Theses
@@ -71,3 +80,4 @@ Welcome to send a pull request to add papers and relevant content.
 
 # Research Groups
 - [Secure, Reliable, and Intelligent Systems Lab (SRI)](https://www.sri.inf.ethz.ch/), ETH Zurich
+
