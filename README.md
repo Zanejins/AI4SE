@@ -61,6 +61,7 @@ Welcome to send a pull request to add papers and relevant content.
 
 # Datasets
 - [Python Dataset](https://www.sri.inf.ethz.ch/py150) - A dataset consisting of 150k python files and their corresponding parsed ASTs.
+- [Python Dataset](https://huggingface.co/rgismondi/python-50k-dedup/tree/main) - A dataset consisting of 50k python source code which have been deduplicated.
 - [Javascript Dataset](https://www.sri.inf.ethz.ch/js150) - A dataset consisting of 150k JavaScript files and their corresponding parsed ASTs.
 - [PURE Dataset](https://zenodo.org/record/1414117#.Y7mDrHZBy3A) - a Dataset of Public Requirements Documents
 - [PROMISE SOFTWARE ENGINEERING REPOSITORY](http://promise.site.uottawa.ca/SERepository/) - Here we can find a collection of publicly available datasets and tools to serve researchers in building predictive software models.
