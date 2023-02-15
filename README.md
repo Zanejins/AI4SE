@@ -45,6 +45,7 @@ Welcome to send a pull request to add papers and relevant content.
 - **Learning to Prevent Profitless Neural Code Completion** (2022), arxiv, Sun, Z., et al. [[pdf]](https://arxiv.org/pdf/2209.05948)
 - **Syntax-Aware On-the-Fly Code Completion** (2022), arxiv, Takerngsaksiri, W., et al. [[pdf]](https://arxiv.org/pdf/2211.04673)
 - **Boosting source code suggestion with self-supervised Transformer Gated Highway** (2022), JSS, Hussain, Yasir, et al.
+- **COCOMIC: Code Completion By Jointly Modeling In-file and Cross-file Context** (2022), Ding, Yangruibo, et al. [[pdf]](https://arxiv.org/pdf/2212.10007)
 
 
 ## Code Generation
@@ -72,6 +73,7 @@ Welcome to send a pull request to add papers and relevant content.
 ## Source Code Analysis&Processing
 - [PVTS parser](https://github.com/Microsoft/PTVS) - we can use it to extract AST.
 - [java-callgraph](https://github.com/gousiosg/java-callgraph) - a suite of programs for generating static and dynamic calls graphs in Java
+- [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 
 
 # PhD Theses
