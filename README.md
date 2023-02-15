@@ -73,6 +73,7 @@ Welcome to send a pull request to add papers and relevant content.
 ## Source Code Analysis&Processing
 - [PVTS parser](https://github.com/Microsoft/PTVS) - we can use it to extract AST.
 - [java-callgraph](https://github.com/gousiosg/java-callgraph) - a suite of programs for generating static and dynamic calls graphs in Java
+- [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 
 
 # PhD Theses
