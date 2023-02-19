@@ -77,6 +77,19 @@ Welcome to send a pull request to add papers and relevant content.
 - [PVTS parser](https://github.com/Microsoft/PTVS) - we can use it to extract AST.
 - [java-callgraph](https://github.com/gousiosg/java-callgraph) - a suite of programs for generating static and dynamic calls graphs in Java
 - [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
+- [LibSA4Py](https://github.com/saltudelft/libsa4py) - LibSA4Py:Light-weight static analysis for extracting type hints and features
+- [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python
+- [python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
+- [Semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
+- [GraphGen4Code](https://wala.github.io/graph4code/) - A toolkit for creating code knowledge graphs based on WALA code analysis and extraction of documentation
+- [Joern](https://github.com/joernio/joern) - Code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs
+- [NaturalCC](https://xcodemind.github.io/papers/icse22_naturalcc_camera_submitted.pdf) - An Open-Source Toolkit for Code Intelligence
+- [Scalpel](https://github.com/SMAT-Lab/Scalpel) - The Python Static Analysis Framework
+- [WALA](https://github.com/wala/WALA) - T.J. Watson Libraries for Analysis, with frontends for Java, Android, and JavaScript
+
+## Code de-duplication
+- [CD4Py](https://github.com/saltudelft/CD4Py) - Code De-Duplication for Python
+- [Near-duplicate Source Code Detector](https://github.com/microsoft/near-duplicate-code-detector)
 
 
 # PhD Theses
