@@ -1,4 +1,5 @@
 # AI4SE
+![GitHub last commit](https://img.shields.io/github/last-commit/zanejins/ai4se)
 
 This repository contains a curated list of papers, datasets, and tools that are devoted to research on Artificial Intelligence for Software Engineering. 
 
@@ -49,6 +50,8 @@ Welcome to send a pull request to add papers and relevant content.
 
 
 ## Code Generation
+- **CodeScore: Evaluating Code Generation by Learning Code Execution**(2023),arxiv,Dong, Yihong, et al.[[pdf]](https://arxiv.org/pdf/2301.09043)
+- **Program Generation from Diverse Video Demonstrations** (2023), arxiv, Manchin, Anthony, et al. [[pdf]](https://arxiv.org/pdf/2302.00178) 
 ## Code Recommand
 ## Code Summarization
 ## Code Changes
