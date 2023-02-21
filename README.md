@@ -24,6 +24,7 @@ Welcome to send a pull request to add papers and relevant content.
   - [Program Translation](#program-translation)
   - [Program Analysis](#program-analysis)
   - [Code Clone Detection](#code-clone-detection)
+- [Models](#models)
 - [Datasets](#datasets) 
 - [Tools](#tools)
 - [PhD Theses](#phd-theses)
@@ -63,6 +64,10 @@ Welcome to send a pull request to add papers and relevant content.
 ## Program Analysis
 ## Code Clone Detection
 
+
+# Models
+- [Code-Clippy](https://github.com/CodedotAl/gpt-code-clippy) - an open-source version of Github Copilot,an ai pair programmer based on GPT-3.
+- []
 # Datasets
 - [Python Dataset](https://www.sri.inf.ethz.ch/py150) - A dataset consisting of 150k python files and their corresponding parsed ASTs.
 - [Python Dataset](https://huggingface.co/rgismondi/python-50k-dedup/tree/main) - A dataset consisting of 50k python source code which have been deduplicated.
@@ -70,6 +75,10 @@ Welcome to send a pull request to add papers and relevant content.
 - [PURE Dataset](https://zenodo.org/record/1414117#.Y7mDrHZBy3A) - a Dataset of Public Requirements Documents
 - [PROMISE SOFTWARE ENGINEERING REPOSITORY](http://promise.site.uottawa.ca/SERepository/) - Here we can find a collection of publicly available datasets and tools to serve researchers in building predictive software models.
 - [UCI Machine Learning Reposity](http://archive.ics.uci.edu/ml/datasets.php) - center for Machine Learning and Intelligent Systems.
+- [Code Clippy Data](https://the-eye.eu/public/AI/training_data/code_clippy_data/) - a opensource dataset for code generation
+
+
+
 
 
 # Tools
